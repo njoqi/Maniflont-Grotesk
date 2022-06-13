@@ -1,10 +1,10 @@
-SplineFontDB: 3.0
-FontName: ManifontGroteskBook
-FullName: Manifont Grotesk Book
-FamilyName: Manifont Grotesk Book
+SplineFontDB: 3.2
+FontName: ManiflontGroteskBook
+FullName: Maniflont Grotesk Book
+FamilyName: Maniflont Grotesk Book
 Weight: Book
-Copyright: Copyright (c) 2015 by interstices.io. All rights reserved.
-Version: 001.001
+Copyright: Copyright (c) 2015 by interstices.io. All rights reserved.\nModified lowercase L by Flynn Salazar (2022).
+Version: 001.002
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911182
-ModificationTime: 1466520622
+ModificationTime: 1654984602
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +59,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 0" { "Ligature Substitution lookup 0
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Regular" "" "ManifontGroteskBook" "" "" "" "" "Alexandre Liziard & +AMkA-tienne Ozeray" "" "" "http://interstices.io" "Copyright (c) 2016, Alexandre Liziard & +AMkA-tienne Ozeray (<bonjour@interstices.io>),+AAoA-with Reserved Font Name Manifont Grotesk Book.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Manifont Grotesk" "Book"
+LangName: 1033 "" "" "Regular" "" "ManiflontGroteskBook" "" "" "" "" "Alexandre Liziard & +AMkA-tienne Ozeray" "" "" "http://interstices.io" "Copyright (c) 2016, Alexandre Liziard & +AMkA-tienne Ozeray (<bonjour@interstices.io>),+AAoA-with Reserved Font Name Manifont Grotesk Book.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Maniflont Grotesk" "Book"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -67,19 +67,21 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 0 38 13
 BeginPrivate: 2
 BlueValues 23 [-15 0 520 535 720 735]
 OtherBlues 11 [-210 -200]
 EndPrivate
 Grid
+-88.2514139811 1250 m 0
+ -88.2514139811 -750 l 1024
 -1000 199.333333333 m 0
  2000 199.333333333 l 1024
   Named: "a"
 -1000 685 m 0
  2000 685 l 1024
-362 1251 m 4
- 362 -749 l 1028
+362 1251 m 0
+ 362 -749 l 1024
   Named: "MILIEU"
 268.333333333 1250 m 0
  268.333333333 -750 l 1024
@@ -127,7 +129,7 @@ Grid
   Named: "Termianson"
 EndSplineSet
 TeXData: 1 0 0 291504 145752 97168 545260 1048576 97168 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 369
+BeginChars: 65536 370
 
 StartChar: uni0000
 Encoding: 0 0 0
@@ -566,29 +568,29 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-201.509765625 721.466796875 m 1029
-65.0029296875 519.965820312 m 1,0,-1
- 155.0546875 519.965820312 l 1,1,-1
- 155.0546875 122.987304688 l 1,2,-1
- 398.02734375 519.965820312 l 1,3,-1
- 495 519.965820312 l 1,4,-1
- 495 0 l 1,5,-1
- 405.03125 0 l 1,6,-1
- 405.03125 394.059570312 l 1,7,-1
- 162.05859375 0 l 1,8,-1
- 65.0029296875 0 l 1,9,-1
- 65.0029296875 519.965820312 l 1,0,-1
-423.700195312 698.009765625 m 5,10,-1
- 397.780273438 613.965820312 l 5,11,-1
- 285.111328125 571.526367188 l 5,12,-1
- 174.452148438 614.381835938 l 5,13,-1
- 148.299804688 698.009765625 l 5,14,-1
- 201.509765625 721.466796875 l 5,15,-1
- 226.94921875 663.548828125 l 5,16,-1
- 286.73828125 644.430664062 l 5,17,-1
- 345.401367188 663.548828125 l 5,18,-1
- 372.711914062 721.466796875 l 5,19,-1
- 423.700195312 698.009765625 l 5,10,-1
+201.509765625 721.466796875 m 1029xcc
+65.0029296875 519.965820312 m 1
+ 155.0546875 519.965820312 l 1
+ 155.0546875 122.987304688 l 1
+ 398.02734375 519.965820312 l 1
+ 495 519.965820312 l 1
+ 495 0 l 1
+ 405.03125 0 l 1
+ 405.03125 394.059570312 l 1
+ 162.05859375 0 l 1
+ 65.0029296875 0 l 1
+ 65.0029296875 519.965820312 l 1
+423.700195312 698.009765625 m 5
+ 397.780273438 613.965820312 l 5
+ 285.111328125 571.526367188 l 5
+ 174.452148438 614.381835938 l 5
+ 148.299804688 698.009765625 l 5
+ 201.509765625 721.466796875 l 5
+ 226.94921875 663.548828125 l 5
+ 286.73828125 644.430664062 l 5
+ 345.401367188 663.548828125 l 5
+ 372.711914062 721.466796875 l 5
+ 423.700195312 698.009765625 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -3838,15 +3840,15 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-133.280273438 606.940429688 m 5
- 87.0498046875 606.94140625 l 5
- 54.197265625 642.686523438 l 5
- 54.2197265625 693.490234375 l 5
- 86.4990234375 729.840820312 l 5
- 132.729492188 729.83984375 l 5
- 165.889648438 693.390625 l 5
- 165.809570312 642.541015625 l 5
- 133.280273438 606.940429688 l 5
+133.280273438 606.940429688 m 1
+ 87.0498046875 606.94140625 l 1
+ 54.197265625 642.686523438 l 1
+ 54.2197265625 693.490234375 l 1
+ 86.4990234375 729.840820312 l 1
+ 132.729492188 729.83984375 l 1
+ 165.889648438 693.390625 l 1
+ 165.809570312 642.541015625 l 1
+ 133.280273438 606.940429688 l 1
 -34.15234375 -124.903320312 m 5
  12 -132 l 6
  55.201171875 -98.322265625 l 5
@@ -3929,20 +3931,27 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 75
-Width: 220
+Width: 270
 Flags: HMW
-HStem: 0 21G<65 155 65 65> 715 20G<155 155>
-VStem: 65 90<0 695 695 695>
+HStem: -10 80 700 20G<65.001 155.001>
+VStem: 65.001 90<129.185 720>
 LayerCount: 3
 Fore
 SplineSet
-155 0 m 5
- 65 0 l 5
- 65 720 l 5
- 155 720 l 5
- 155 0 l 5
+155.000976562 152 m 0
+ 162.754882812 86.5361328125 l 1
+ 206.119140625 64.5673828125 l 1
+ 246.421875 70.60546875 l 1
+ 256.802734375 -6.9580078125 l 1
+ 256.78515625 -6.974609375 l 1
+ 188.002929688 -16.5859375 l 1
+ 85.529296875 26.4404296875 l 1
+ 65.0009765625 152 l 1
+ 65.0009765625 720 l 1
+ 155.000976562 720 l 1
+ 155.000976562 152 l 0
 EndSplineSet
-Validated: 1
+Validated: 524289
 Colour: ffff00
 EndChar
 
@@ -4324,54 +4333,55 @@ EndChar
 StartChar: t
 Encoding: 116 116 83
 Width: 322
-Flags: HMW
+Flags: W
 HStem: -10 80<207.597 225.597> 451 69<20.0967 94.0967 20.0967 94.0967 184.097 273.097> 680 20G<184.097 184.097>
 VStem: 94.0967 90<152 451 520 657 657 657>
 LayerCount: 3
 Back
 SplineSet
-272 76 m 5
- 282 0 l 5
- 262 -6 235 -10 216 -10 c 4
- 107 -10 94 50 94 152 c 6
- 94 451 l 5
- 20 451 l 5
- 20 520 l 5
- 94 520 l 5
- 94 657 l 5
- 184 700 l 5
- 184 520 l 5
- 273 520 l 5
- 273 451 l 5
- 184 451 l 5
- 184 147 l 6
- 184 102 184 70 231 70 c 4
- 241 70 256 71 272 76 c 5
+272 76 m 1
+ 282 0 l 1
+ 262 -6 235 -10 216 -10 c 0
+ 107 -10 94 50 94 152 c 2
+ 94 451 l 1
+ 20 451 l 1
+ 20 520 l 1
+ 94 520 l 1
+ 94 657 l 1
+ 184 700 l 1
+ 184 520 l 1
+ 273 520 l 1
+ 273 451 l 1
+ 184 451 l 1
+ 184 147 l 2
+ 184 102 184 70 231 70 c 0
+ 233.669138966 70 236.694493074 70.0712430282 239.999999305 70.2707763474 c 0
+ 249.078659927 70.8187999061 260.270622346 72.3345694831 272 76 c 1
 EndSplineSet
 Fore
 SplineSet
-285.784179688 -6.974609375 m 5
+285.784179688 -6.974609375 m 1
  217.001953125 -16.5859375 l 5
- 114.528320312 26.4404296875 l 5
- 94 152 l 5
- 94 451 l 5
- 20 451 l 5
- 20 520 l 5
- 94 520 l 5
- 94 700 l 5
- 184 700 l 5
- 184 520 l 5
- 273 520 l 5
- 273 451 l 5
- 184 451 l 5
- 184 152 l 4
- 191.75390625 86.5361328125 l 5
- 235.118164062 64.5673828125 l 5
- 275.420898438 70.60546875 l 5
- 285.801757812 -6.9580078125 l 5
- 285.784179688 -6.974609375 l 5
+ 114.528320312 26.4404296875 l 1
+ 94 152 l 1
+ 94 451 l 1
+ 20 451 l 1
+ 20 520 l 1
+ 94 520 l 1
+ 94 700 l 1
+ 184 700 l 1
+ 184 520 l 1
+ 273 520 l 1
+ 273 451 l 1
+ 184 451 l 1
+ 184 152 l 0
+ 191.75390625 86.5361328125 l 1
+ 235.118164062 64.5673828125 l 1
+ 275.420898438 70.60546875 l 1
+ 285.801757812 -6.9580078125 l 1
+ 285.784179688 -6.974609375 l 1
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 335 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 329 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 321 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 317 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 314 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 312 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 311 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 277 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 274 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 259 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 258 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 234 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 232 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 229 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 227 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 223 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 218 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 80 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 78 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 70 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 68 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 67 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Colour: ffff00
 EndChar
@@ -5800,37 +5810,37 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-272.026367188 432.497070312 m 5xf0
- 356.734375 467.31640625 l 5
- 386.331054688 551.821289062 l 5
- 355.586914062 632.787109375 l 5
- 272.026367188 664 l 5
- 177.983398438 623.057617188 l 5
- 146.579101562 526.305664062 l 5
- 63.8095703125 559.919921875 l 5
- 120.04296875 687.950195312 l 5
- 269.899414062 742.5 l 5
- 422.041992188 695.595703125 l 5
- 483.032226562 553.77734375 l 5
- 452.106445312 456.514648438 l 5
- 372.893554688 399.752929688 l 5
- 474.303710938 328.993164062 l 5
- 510.587890625 203.885742188 l 5
- 444.802734375 40.9658203125 l 5
- 271.85546875 -22.513671875 l 5
- 103.416015625 34.0771484375 l 5
- 44.4296875 164.16015625 l 5
- 131.184570312 198.783203125 l 5
- 169.052734375 99.4462890625 l 5
- 271.85546875 59.046875 l 5
- 379.102539062 102.032226562 l 5
- 416.694335938 206.947265625 l 5
- 379.102539062 312.408203125 l 5
- 270.053710938 355.868164062 l 5
- 228.991210938 355.868164062 l 5
- 228.991210938 432.326171875 l 5
- 272.026367188 432.326171875 l 5
- 272.026367188 432.497070312 l 5xf0
+272.026367188 432.497070312 m 1xf0
+ 356.734375 467.31640625 l 1
+ 386.331054688 551.821289062 l 1
+ 355.586914062 632.787109375 l 1
+ 272.026367188 664 l 1
+ 177.983398438 623.057617188 l 1
+ 146.579101562 526.305664062 l 1
+ 63.8095703125 559.919921875 l 1
+ 120.04296875 687.950195312 l 1
+ 269.899414062 742.5 l 1
+ 422.041992188 695.595703125 l 1
+ 483.032226562 553.77734375 l 1
+ 452.106445312 456.514648438 l 1
+ 372.893554688 399.752929688 l 1
+ 474.303710938 328.993164062 l 1
+ 510.587890625 203.885742188 l 1
+ 444.802734375 40.9658203125 l 1
+ 271.85546875 -22.513671875 l 1
+ 103.416015625 34.0771484375 l 1
+ 44.4296875 164.16015625 l 1
+ 131.184570312 198.783203125 l 1
+ 169.052734375 99.4462890625 l 1
+ 271.85546875 59.046875 l 1
+ 379.102539062 102.032226562 l 1
+ 416.694335938 206.947265625 l 1
+ 379.102539062 312.408203125 l 1
+ 270.053710938 355.868164062 l 1
+ 228.991210938 355.868164062 l 1
+ 228.991210938 432.326171875 l 1
+ 272.026367188 432.326171875 l 1
+ 272.026367188 432.497070312 l 1xf0
 EndSplineSet
 Validated: 1
 Colour: ffff00
@@ -7002,21 +7012,21 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-120.49609375 620.443359375 m 5
- 98.220703125 620.443359375 l 5
- 68.3603515625 650.3125 l 5
- 68.3603515625 692.55859375 l 5
- 98.2255859375 722.41796875 l 5xe0
- 98.2255859375 722.419921875 l 5
- 140.473632812 722.419921875 l 5
- 170.333984375 692.5546875 l 5
- 170.333984375 650.30859375 l 5
- 170.333984375 620.4453125 l 5
- 149.551757812 530.038085938 l 5
- 90 478 l 5
- 62.322265625 514.389648438 l 5
- 104.805664062 548.665039062 l 5
- 120.49609375 620.443359375 l 5
+120.49609375 620.443359375 m 1
+ 98.220703125 620.443359375 l 1
+ 68.3603515625 650.3125 l 1
+ 68.3603515625 692.55859375 l 1
+ 98.2255859375 722.41796875 l 1xe0
+ 98.2255859375 722.419921875 l 1
+ 140.473632812 722.419921875 l 1
+ 170.333984375 692.5546875 l 1
+ 170.333984375 650.30859375 l 1
+ 170.333984375 620.4453125 l 1
+ 149.551757812 530.038085938 l 1
+ 90 478 l 1
+ 62.322265625 514.389648438 l 1
+ 104.805664062 548.665039062 l 1
+ 120.49609375 620.443359375 l 1
 EndSplineSet
 Validated: 1
 Colour: ffff00
@@ -7403,7 +7413,7 @@ SplineSet
  176.75390625 650.310546875 l 1
  176.75390625 620.447265625 l 1
  155.971679688 530.040039062 l 1
- 96 478 l 5
+ 96 478 l 1
  68.7421875 514.391601562 l 1
  111.225585938 548.666992188 l 1
  126.916015625 620.4453125 l 1
@@ -7695,42 +7705,42 @@ SplineSet
 235.946289062 820 m 1xec
  310.905273438 820 l 1
  310.905273438 732.033203125 l 1
- 441.193359375 673.404296875 l 5
+ 441.193359375 673.404296875 l 1
  486 534 l 1
  397.038085938 506.987304688 l 1
- 374.036132812 607.06640625 l 5
+ 374.036132812 607.06640625 l 1
  311.072265625 650.986328125 l 1
  311.072265625 412.015625 l 1
- 460.998046875 339.62109375 l 5
- 519.500976562 195.76171875 l 5
- 460.934570312 40.87109375 l 5
+ 460.998046875 339.62109375 l 1
+ 519.500976562 195.76171875 l 1
+ 460.934570312 40.87109375 l 1
  311.072265625 -14.0625 l 1
  311.072265625 -100.028320312 l 1
  236.112304688 -100.028320312 l 1
  236.112304688 -13.060546875 l 1
- 89.1328125 58.408203125 l 5
+ 89.1328125 58.408203125 l 1
  46 203 l 1
  134.053710938 227.993164062 l 1
- 162.295898438 117.890625 l 5
+ 162.295898438 117.890625 l 1
  236.112304688 66.9873046875 l 1
  236.112304688 339.974609375 l 1
- 92.279296875 425.521484375 l 5
- 62.7041015625 534.42578125 l 5
- 114.859375 678.608398438 l 5
+ 92.279296875 425.521484375 l 1
+ 62.7041015625 534.42578125 l 1
+ 114.859375 678.608398438 l 1
  236.112304688 732.033203125 l 1
  235.946289062 820 l 1xec
 235.946289062 435.029296875 m 1
  235.946289062 650.986328125 l 1
- 177.90234375 619.729492188 l 5
- 156.172851562 540.548828125 l 5
- 176.052734375 477.860351562 l 5
+ 177.90234375 619.729492188 l 1
+ 156.172851562 540.548828125 l 1
+ 176.052734375 477.860351562 l 1
  235.946289062 435.029296875 l 1
 311.072265625 321.046875 m 1
  311.072265625 65.9833984375 l 1
- 390.110351562 97.861328125 l 5
- 420.58984375 190.658203125 l 5
- 399.157226562 264.4296875 l 5
- 334.860351562 312.108398438 l 5
+ 390.110351562 97.861328125 l 1
+ 420.58984375 190.658203125 l 1
+ 399.157226562 264.4296875 l 1
+ 334.860351562 312.108398438 l 1
  311.072265625 321.046875 l 1
 EndSplineSet
 Validated: 1
@@ -7798,7 +7808,7 @@ SplineSet
  163.158203125 667.791992188 l 1
  320.530273438 742.499023438 l 1
  467.547851562 678.380859375 l 1
- 533 515 l 5
+ 533 515 l 1
  441.89453125 488.54296875 l 1
  406.078125 614.797851562 l 1
  320.444335938 662.978515625 l 1
@@ -8536,28 +8546,28 @@ EndSplineSet
 Fore
 SplineSet
 396 255 m 1052
-459.037109375 324.897460938 m 1,0,-1
- 151.110351562 324.897460938 l 1,1,-1
- 211.544921875 134.23046875 l 1,2,-1
- 383.397460938 59.0126953125 l 1,3,-1
- 517.7109375 106.045898438 l 1,4,-1
- 591.426757812 230.38671875 l 1,5,-1
- 672 181 l 1,6,-1
- 587.35546875 42.5908203125 l 1,7,-1
- 383.397460938 -22.5478515625 l 1,8,-1
- 129.431640625 89.5205078125 l 1,9,-1
- 43.796875 359.916015625 l 1,10,-1
- 129.431640625 630.380859375 l 1,11,-1
- 383.397460938 742.465820312 l 1,12,-1
- 587.801757812 678.34765625 l 1,13,-1
- 674 536 l 1,14,-1
- 591.426757812 488.509765625 l 1,15,-1
- 524.50390625 612.978515625 l 1,16,-1
- 383.397460938 660.904296875 l 1,17,-1
- 219.69921875 590.279296875 l 1,18,-1
- 152.02734375 410.029296875 l 1,19,-1
- 459.037109375 410.029296875 l 1,20,-1
- 459.037109375 324.897460938 l 1,0,-1
+459.037109375 324.897460938 m 1
+ 151.110351562 324.897460938 l 1
+ 211.544921875 134.23046875 l 1
+ 383.397460938 59.0126953125 l 1
+ 517.7109375 106.045898438 l 1
+ 591.426757812 230.38671875 l 1
+ 672 181 l 1
+ 587.35546875 42.5908203125 l 1
+ 383.397460938 -22.5478515625 l 1
+ 129.431640625 89.5205078125 l 1
+ 43.796875 359.916015625 l 1
+ 129.431640625 630.380859375 l 1
+ 383.397460938 742.465820312 l 1
+ 587.801757812 678.34765625 l 1
+ 674 536 l 1
+ 591.426757812 488.509765625 l 1
+ 524.50390625 612.978515625 l 1
+ 383.397460938 660.904296875 l 1
+ 219.69921875 590.279296875 l 1
+ 152.02734375 410.029296875 l 1
+ 459.037109375 410.029296875 l 1
+ 459.037109375 324.897460938 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -10208,7 +10218,7 @@ EndChar
 StartChar: afii10052
 Encoding: 1027 1027 215
 Width: 553
-Flags: HMWO
+Flags: HMW
 HStem: 0 21G<80 175 175 175> 635 85<175 533> 970 20G<306 424 424 424>
 VStem: 80 95<0 635 0 720 0 635>
 LayerCount: 3
@@ -13156,7 +13166,7 @@ SplineSet
  250.356445312 600.879882812 l 1x03
 EndSplineSet
 Refer: 68 101 N 1 0 0 1 0 0 3
-Validated: 15204353
+Validated: 1
 Kerns2: 87 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Colour: ffff00
 EndChar
@@ -13247,47 +13257,47 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-201.509765625 721.466796875 m 1029
-423.700195312 698.009765625 m 5,10,-1
- 397.780273438 613.965820312 l 5,11,-1
- 285.111328125 571.526367188 l 5,12,-1
- 174.452148438 614.381835938 l 5,13,-1
- 148.299804688 698.009765625 l 5,14,-1
- 201.509765625 721.466796875 l 5,15,-1
- 226.94921875 663.548828125 l 5,16,-1
- 286.73828125 644.430664062 l 5,17,-1
- 345.401367188 663.548828125 l 5,18,-1
- 372.711914062 721.466796875 l 5,19,-1
- 423.700195312 698.009765625 l 5,10,-1
-83.0498046875 16.38671875 m 1,0,-1
- 29.490234375 134.477539062 l 1,1,-1
- 89.1630859375 258.784179688 l 1,2,-1
- 382.41015625 348.740234375 l 1,3,-1
- 382.41015625 348.740234375 l 1,4,-1
- 347.499023438 441.418945312 l 1,5,-1
- 259.971679688 467.018554688 l 1,6,-1
- 178.3046875 439.981445312 l 1,7,-1
- 132.484375 360.962890625 l 1,8,-1
- 61.1103515625 404.840820312 l 1,9,-1
- 129.157226562 506.319335938 l 1,10,-1
- 269.158203125 540.500976562 l 1,11,-1
- 424.775390625 488.110351562 l 1,12,-1
- 472.125 335.448242188 l 1,13,-1
- 472 0 l 1,14,-1
- 388 0 l 1,15,-1
- 388.391601562 60.14453125 l 1,16,-1
- 303.06640625 -2.4677734375 l 1,17,-1
- 209.958984375 -20.56640625 l 1,18,-1
- 83.0498046875 16.38671875 l 1,0,-1
-382.41015625 269.180664062 m 1,19,-1
- 382.41015625 269.180664062 l 1,20,-1
- 165.568359375 209.150390625 l 1,21,-1
- 125.424804688 138.475585938 l 1,22,-1
- 156.57421875 70.3935546875 l 1,23,-1
- 224.336914062 52.830078125 l 1,24,-1
- 318.719726562 81.7890625 l 1,25,-1
- 382.357421875 137.5390625 l 1,26,-1
- 382.41015625 269.180664062 l 1,19,-1
+201.509765625 721.466796875 m 1029x24
+423.700195312 698.009765625 m 5
+ 397.780273438 613.965820312 l 5
+ 285.111328125 571.526367188 l 5
+ 174.452148438 614.381835938 l 5
+ 148.299804688 698.009765625 l 5
+ 201.509765625 721.466796875 l 5
+ 226.94921875 663.548828125 l 5
+ 286.73828125 644.430664062 l 5
+ 345.401367188 663.548828125 l 5
+ 372.711914062 721.466796875 l 5
+ 423.700195312 698.009765625 l 5
+83.0498046875 16.38671875 m 1
+ 29.490234375 134.477539062 l 1
+ 89.1630859375 258.784179688 l 1
+ 382.41015625 348.740234375 l 1
+ 382.41015625 348.740234375 l 1
+ 347.499023438 441.418945312 l 1
+ 259.971679688 467.018554688 l 1
+ 178.3046875 439.981445312 l 1
+ 132.484375 360.962890625 l 1
+ 61.1103515625 404.840820312 l 1
+ 129.157226562 506.319335938 l 1
+ 269.158203125 540.500976562 l 1
+ 424.775390625 488.110351562 l 1
+ 472.125 335.448242188 l 1
+ 472 0 l 1
+ 388 0 l 1x64
+ 388.391601562 60.14453125 l 1
+ 303.06640625 -2.4677734375 l 1
+ 209.958984375 -20.56640625 l 1
+ 83.0498046875 16.38671875 l 1
+382.41015625 269.180664062 m 1
+ 382.41015625 269.180664062 l 1
+ 165.568359375 209.150390625 l 1
+ 125.424804688 138.475585938 l 1
+ 156.57421875 70.3935546875 l 1
+ 224.336914062 52.830078125 l 1
+ 318.719726562 81.7890625 l 1
+ 382.357421875 137.5390625 l 1
+ 382.41015625 269.180664062 l 1
 EndSplineSet
 Validated: 5
 Kerns2: 87 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
@@ -14409,39 +14419,30 @@ Flags: HMW
 HStem: 0 21G<147 237 147 147> 715 20G<237 237>
 VStem: 147 90<0 337 337 337 482 695 695 695>
 LayerCount: 3
-Back
-SplineSet
-237 0 m 5
- 147 0 l 5
- 147 337 l 5
- 58 282 l 5
- 20 347 l 5
- 147 426 l 5
- 147 695 l 5
- 237 735 l 5
- 237 482 l 5
- 322 535 l 5
- 360 470 l 5
- 237 393 l 5
- 237 0 l 5
-EndSplineSet
 Fore
 SplineSet
-237 0 m 1
- 147 0 l 1
+237 482 m 1
+ 322 535 l 1
+ 360 470 l 1
+ 237 393 l 1
+ 237.000976562 167 l 0
+ 244.754882812 101.536132812 l 1
+ 288.119140625 79.5673828125 l 1
+ 328.421875 85.60546875 l 1
+ 338.802734375 8.0419921875 l 1
+ 338.78515625 8.025390625 l 1
+ 270.002929688 -1.5859375 l 1
+ 167.529296875 41.4404296875 l 1
+ 147.000976562 167 l 1
  147 337 l 1
  58 282 l 1
  20 347 l 1
  147 426 l 1
- 147 735 l 5
- 237 735 l 1
+ 147.000976562 735 l 1
+ 237.000976562 735 l 1
  237 482 l 1
- 322 535 l 1
- 360 470 l 1
- 237 393 l 1
- 237 0 l 1
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Lslash
@@ -14500,14 +14501,26 @@ VStem: 65 90<0 695 695 695> 220 100<620 720> 271 49<588 620>
 LayerCount: 3
 Fore
 SplineSet
-249.3046875 720.27734375 m 1xe0
+155.000976562 152 m 0xe0
+ 162.754882812 86.5361328125 l 1
+ 206.119140625 64.5673828125 l 1
+ 246.421875 70.60546875 l 1
+ 256.802734375 -6.9580078125 l 1
+ 256.78515625 -6.974609375 l 1
+ 188.002929688 -16.5859375 l 1
+ 85.529296875 26.4404296875 l 1
+ 65.0009765625 152 l 1
+ 65.0009765625 720 l 1
+ 155.000976562 720 l 1
+ 155.000976562 152 l 0xe0
+249.3046875 720.27734375 m 1
  249.3046875 720.279296875 l 1
  290.724609375 720.279296875 l 1
  320 691 l 1
  320 649.58203125 l 1
- 320 620.3046875 l 1
+ 320 620.3046875 l 1xf0
  299.625 531.669921875 l 1
- 241 481 l 5
+ 241 481 l 1
  214.10546875 516.328125 l 1
  255.755859375 549.931640625 l 1
  271.138671875 620.302734375 l 1
@@ -14515,14 +14528,9 @@ SplineSet
  249.30078125 620.302734375 l 1
  220.025390625 649.5859375 l 1
  220.025390625 691.00390625 l 1
- 249.3046875 720.27734375 l 1xe0
-155 0 m 1xe8
- 65 0 l 1
- 65 735 l 1
- 155 735 l 1
- 155 0 l 1xe8
+ 249.3046875 720.27734375 l 1
 EndSplineSet
-Validated: 5
+Validated: 524293
 Colour: ffff00
 EndChar
 
@@ -17466,6 +17474,59 @@ SplineSet
 EndSplineSet
 Refer: 194 96 N 1 0 0 1 139.803 74 2
 Validated: 1
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 369
+Width: 530
+Flags: MW
+HStem: 0.488281 73.459<372.983 445.627> 300.14 87.7207<37.2998 37.2998> 661.986 81.0469<245.946 246.112>
+VStem: 72.7041 93.4688<529.835 564.777> 181 94<234.725 300> 384.036 67.1572<618.066 684.404>
+LayerCount: 3
+Fore
+SplineSet
+275 300.139648438 m 9
+ 372.700195312 300.139648438 l 1
+ 372.700195312 348 l 0
+ 372.700195312 387.860351562 l 1
+ 255 388 l 1
+ 196.052734375 458.860351562 l 1
+ 166.172851562 551.548828125 l 1
+ 187.90234375 630.729492188 l 1
+ 245.946289062 661.986328125 l 1
+ 321.072265625 661.986328125 l 1
+ 384.036132812 618.06640625 l 1
+ 407.038085938 517.987304688 l 1
+ 496 545 l 1
+ 451.193359375 684.404296875 l 1
+ 320.905273438 743.033203125 l 1
+ 246.112304688 743.033203125 l 1
+ 124.859375 689.608398438 l 1
+ 72.7041015625 545.42578125 l 1
+ 102.279296875 436.521484375 l 1
+ 142 388 l 1
+ 37.2998046875 387.860351562 l 1
+ 37.2998046875 300.139648438 l 1
+ 181 300 l 1
+ 174 214 l 1
+ 113.328125 111.491210938 l 1
+ 35.33984375 67.5654296875 l 1
+ 76.1396484375 1.2998046875 l 1
+ 96.533203125 16.578125 l 1
+ 173.034179688 36.947265625 l 1
+ 265.482421875 28.0634765625 l 1
+ 372.983398438 -14.8203125 l 1
+ 445.626953125 0.48828125 l 1
+ 508.677734375 45.4150390625 l 1
+ 469.83984375 109.680664062 l 1
+ 449.484375 95.359375 l 1
+ 372.983398438 73.947265625 l 1
+ 280.568359375 112.874023438 l 1
+ 221 116.876953125 l 0
+ 263 188 l 1
+ 275 300.139648438 l 9
+EndSplineSet
+Validated: 524297
 EndChar
 EndChars
 EndSplineFont
